@@ -1,5 +1,5 @@
 FROM maven:3.8.6-openjdk-11
-ENV GOLDEN_DB_URL=localhost
+ENV GOLDEN_DB_URL=devops22.cehxjqytwbqs.us-east-1.rds.amazonaws.com
 ENV GOLDEN_DB_NAME=goldenwaste
 ENV GOLDEN_DB_USERNAME=root
 ENV GOLDEN_DB_PASSWORD=DevOps2022
